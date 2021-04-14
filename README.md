@@ -1,3 +1,5 @@
 # No-More-Covid-Extension
 
-### Run the script to hide the term "coronavirus" from the webpages.
+Chrome based extension that blocks the term "coronavirus", "covid" etc. from the webpages.
+
+Download the script and run it in the browser.
