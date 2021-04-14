@@ -8,5 +8,9 @@
       "js": ["script.js"],
       "css": ["styles.css"]
     }
-  ]
+  ],
+  "icons": {
+    "16": "syringe.png",
+    "128": "sy128.png"
+  }
 }
